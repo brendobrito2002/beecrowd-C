@@ -4,7 +4,6 @@
 
 int main()
 {
-
 double raio, area;
 double pi = 3.14159;
 
